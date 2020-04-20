@@ -1,9 +1,9 @@
 <template>
   <div id="app">
-    <b-navbar class="bg-dark" toggleable="lg" type="dark" variant="dark" top="fixed" id="navbar">
+    <b-navbar toggleable="lg" type="light" variant="light" top="fixed" id="navbar">
       <b-navbar-brand>
         <router-link to="/" class="d-flex align-items-center-text-light ml-2">
-          <h2 class="ml-2 mt-2 text-light">J. P. Sandoval</h2>
+          <h2 class="ml-2 mt-2 text-dark">J. P. Sandoval</h2>
         </router-link>
       </b-navbar-brand>
 
@@ -12,31 +12,31 @@
       <b-collapse id="nav-collapse" is-nav>
         <b-navbar-nav>
           <b-nav-item>
-            <router-link class="text-light" to="/">Home</router-link>
+            <router-link class="text-dark" to="/">Home</router-link>
           </b-nav-item>
         </b-navbar-nav>
 
         <b-navbar-nav>
           <b-nav-item>
-            <router-link class="text-light" to="/teams">Bio</router-link>
+            <router-link class="text-dark" to="/teams">Bio</router-link>
           </b-nav-item>
         </b-navbar-nav>
 
         <b-navbar-nav>
           <b-nav-item>
-            <router-link class="text-light" to="/players">CV</router-link>
+            <router-link class="text-dark" to="/players">CV</router-link>
           </b-nav-item>
         </b-navbar-nav>
 
         <b-navbar-nav>
           <b-nav-item>
-            <router-link class="text-light" to="/tournaments">Research</router-link>
+            <router-link class="text-dark" to="/tournaments">Research</router-link>
           </b-nav-item>
         </b-navbar-nav>
 
         <b-navbar-nav>
           <b-nav-item>
-            <router-link class="text-light" to="/schedule">Contact</router-link>
+            <router-link class="text-dark" to="/schedule">Contact</router-link>
           </b-nav-item>
         </b-navbar-nav>
       </b-collapse>
