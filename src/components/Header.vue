@@ -30,6 +30,12 @@
 
         <b-navbar-nav>
           <b-nav-item>
+            <router-link class="text-dark" to="/Blog">Blog</router-link>
+          </b-nav-item>
+        </b-navbar-nav>
+
+        <b-navbar-nav>
+          <b-nav-item>
             <router-link class="text-dark" to="/contact">Contact</router-link>
           </b-nav-item>
         </b-navbar-nav>

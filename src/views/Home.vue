@@ -1,6 +1,8 @@
 <template>
   <div class="bglight splash_image">
     <div class="d-flex">
+      <img class="headerPhoto" src="@/assets/javier_profile.jpg"/>
+<!--       
       <b-carousel
         class="bg-light carousel_border"
         id="carousel-1"
@@ -49,7 +51,7 @@
             </caption>
           </b-carousel-slide>
         </router-link>
-      </b-carousel>
+      </b-carousel> -->
     </div>
 
     <div class="m-3 bg-light text-dark carousel_border">
@@ -102,6 +104,10 @@ export default {
     border-width: 50px;
     padding: 25px;
   }
+}
+
+.headerPhoto {
+    max-width: 100%;
 }
 
 .caption_background {

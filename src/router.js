@@ -4,6 +4,7 @@ import Home from './views/Home.vue'
 import Bio from './views/Bio.vue'
 import Contact from './views/Contact.vue'
 import CV from './views/CV.vue'
+import Blog from './views/Blog.vue'
 
 Vue.use(Router)
 
@@ -30,6 +31,11 @@ export default new Router({
             path: '/CV',
             name: 'CV',
             component: CV
+        },
+        {
+            path: '/blog',
+            name: 'blog',
+            component: Blog
         }
     ]
 })
