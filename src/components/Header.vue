@@ -18,25 +18,19 @@
 
         <b-navbar-nav>
           <b-nav-item>
-            <router-link class="text-dark" to="/teams">Bio</router-link>
+            <router-link class="text-dark" to="/bio">Bio</router-link>
           </b-nav-item>
         </b-navbar-nav>
 
         <b-navbar-nav>
           <b-nav-item>
-            <router-link class="text-dark" to="/players">CV</router-link>
+            <router-link class="text-dark" to="/CV">CV</router-link>
           </b-nav-item>
         </b-navbar-nav>
 
         <b-navbar-nav>
           <b-nav-item>
-            <router-link class="text-dark" to="/tournaments">Research</router-link>
-          </b-nav-item>
-        </b-navbar-nav>
-
-        <b-navbar-nav>
-          <b-nav-item>
-            <router-link class="text-dark" to="/schedule">Contact</router-link>
+            <router-link class="text-dark" to="/contact">Contact</router-link>
           </b-nav-item>
         </b-navbar-nav>
       </b-collapse>

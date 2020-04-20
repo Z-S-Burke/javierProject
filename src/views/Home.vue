@@ -13,25 +13,23 @@
         @sliding-start="onSlideStart"
         @sliding-end="onSlideEnd"
       >
-        <a class="text-light" href="https://www.twitch.tv/overwatchleague">
+        <b-carousel-slide
+          img-src="https://www.thediamondloupe.com/sites/awdcnewswall/files/U.N.%20GA.jpg"
+        >
+          <caption class="text-light caption_background px-4 d-flex justify-content-center">
+            <h2>ABOUT</h2>
+          </caption>
+        </b-carousel-slide>
+        <router-link class="text-light" to="/CV">
           <b-carousel-slide
             img-src="https://www.thediamondloupe.com/sites/awdcnewswall/files/U.N.%20GA.jpg"
           >
             <caption class="text-light caption_background px-4 d-flex justify-content-center">
-              <h2>ECONOMICS</h2>
-            </caption>
-          </b-carousel-slide>
-        </a>
-        <router-link class="text-light" to="/teams">
-          <b-carousel-slide
-            img-src="https://www.thediamondloupe.com/sites/awdcnewswall/files/U.N.%20GA.jpg"
-          >
-            <caption class="text-light caption_background px-4 d-flex justify-content-center">
-              <h2>POLICY</h2>
+              <h2>CV</h2>
             </caption>
           </b-carousel-slide>
         </router-link>
-        <router-link class="text-light" to="/teams">
+        <router-link class="text-light" to="/bio">
           <b-carousel-slide
             img-src="https://www.thediamondloupe.com/sites/awdcnewswall/files/U.N.%20GA.jpg"
           >
@@ -40,12 +38,12 @@
             </caption>
           </b-carousel-slide>
         </router-link>
-        <router-link class="text-light" to="/teams">
+        <router-link class="text-light" to="/contact">
           <b-carousel-slide
             img-src="https://www.thediamondloupe.com/sites/awdcnewswall/files/U.N.%20GA.jpg"
           >
             <caption class="text-light caption_background px-4 d-flex justify-content-center">
-              <h2>BLOG</h2>
+              <h2>CONTACT</h2>
             </caption>
           </b-carousel-slide>
         </router-link>
