@@ -6,15 +6,15 @@
         class="d-flex justify-content-center align-items-center footer_button bg-light text-dark"
       >Home</router-link>
       <router-link
-        to="/teams"
+        to="/bio"
         class="d-flex justify-content-center align-items-center footer_button bg-light text-dark"
       >Bio</router-link>
       <router-link
-        to="/players"
+        to="/CV"
         class="d-flex justify-content-center align-items-center footer_button bg-light text-dark"
       >CV</router-link>
       <router-link
-        to="/schedule"
+        to="/contact"
         class="d-flex justify-content-center align-items-center footer_button bg-light text-dark"
       >Contact</router-link>
     </div>
