@@ -1,8 +1,9 @@
 <template>
   <div class="bglight splash_image">
-    <div class="d-flex">
-      <img class="headerPhoto" src="@/assets/javier_profile.jpg"/>
-<!--       
+    <div>
+      <img class="headerPhoto" src="@/assets/javier_profile.jpg" />
+    </div>
+    <!--       
       <b-carousel
         class="bg-light carousel_border"
         id="carousel-1"
@@ -51,8 +52,7 @@
             </caption>
           </b-carousel-slide>
         </router-link>
-      </b-carousel> -->
-    </div>
+    </b-carousel>-->
 
     <div class="m-3 bg-light text-dark carousel_border">
       <h4>At a glance...</h4>
@@ -107,7 +107,7 @@ export default {
 }
 
 .headerPhoto {
-    max-width: 100%;
+  max-width: 100%;
 }
 
 .caption_background {
