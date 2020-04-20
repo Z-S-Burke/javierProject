@@ -1,8 +1,5 @@
 <template>
   <div class="splash_image">
-    <div>
-      <img class="headerPhoto" src="@/assets/javier_profile.jpg" />
-    </div>
     <h2 class="m-3">BLOG</h2>
 
     <div class="m-3 bg-light text-dark carousel_border">
