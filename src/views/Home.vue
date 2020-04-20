@@ -5,6 +5,8 @@
         class="bg-light carousel_border"
         id="carousel-1"
         v-model="slide"
+        img-width="1024"
+        img-height="480"
         :interval="4000"
         controls
         indicators

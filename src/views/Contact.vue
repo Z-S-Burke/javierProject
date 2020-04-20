@@ -1,7 +1,7 @@
 <template>
   <div class="bglight splash_image">
       <div>
-          <img class="headerPhoto" src="@/assets/radCam.jpg"/>
+          <img class="headerPhoto" src="@/assets/contact.png"/>
       </div>
     <div class="m-3 bg-light text-dark carousel_border">
       <h4>CONTACT</h4>
