@@ -21,7 +21,7 @@
       <h5 class="text-left">Teaching:</h5>
       <ul class="p-3 text-left">
         <li>Comparative Government Tutor, Oxford (2017-2020)</li>
-        <li>Politics in Latin America, Oxford (2017-2020)/li></li>
+        <li>Politics in Latin America, Oxford (2017-2020)</li>
         <li>Statistics in R 101, Q-Step Oxford, (2019-2020)</li>
         <li>Development and Social Change in Latin America, Brookes (2018)</li>
       </ul>
