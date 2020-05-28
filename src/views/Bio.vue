@@ -1,7 +1,9 @@
 <template>
   <div class="bglight splash_image">
+    <div>
+      <img class="headerPhoto" src="@/assets/research_and_teaching.png" />
+    </div>
     <div class="m-3 bg-light text-dark carousel_border">
-      <h4>Research and Teaching</h4>
       <br />
       <h5 class="text-left">Work in progress:</h5>
       <ul class="p-3 text-left">
@@ -14,12 +16,12 @@
       </ul>
       <h5 class="text-left">Data:</h5>
       <ul class="text-left p-3">
-          <a href="url">Download .dte or .csv</a>
+        <a href="url">Download .dte or .csv</a>
       </ul>
       <h5 class="text-left">Teaching:</h5>
       <ul class="p-3 text-left">
         <li>Comparative Government Tutor, Oxford (2017-2020)</li>
-        <li>Politics in Latin America, Oxford (2017-2020)/li>
+        <li>Politics in Latin America, Oxford (2017-2020)/li></li>
         <li>Statistics in R 101, Q-Step Oxford, (2019-2020)</li>
         <li>Development and Social Change in Latin America, Brookes (2018)</li>
       </ul>

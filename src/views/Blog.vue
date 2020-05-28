@@ -1,7 +1,8 @@
 <template>
   <div class="splash_image">
-    <h2 class="m-3">Blog</h2>
-
+    <div>
+      <img class="headerPhoto" src="@/assets/blog.png" />
+    </div>
     <div class="m-3 bg-light text-dark carousel_border">
       <ul class="p-3">
         <h5>OXPOL</h5>

@@ -1,7 +1,9 @@
 <template>
   <div class="bglight splash_image">
+    <div>
+      <img class="headerPhoto" src="@/assets/contact_header.png" />
+    </div>
     <div class="m-3 bg-light text-dark carousel_border">
-      <h4>CONTACT</h4>
       <ul class="p-3 text-left">
         <p>Hi! If you want to get in touch, feel free to find me via:</p>
       </ul>

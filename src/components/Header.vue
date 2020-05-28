@@ -41,9 +41,6 @@
         </b-navbar-nav>
       </b-collapse>
     </b-navbar>
-    <div>
-      <img class="headerPhoto" src="@/assets/javier_profile.jpg" />
-    </div>
   </div>
 </template>
 

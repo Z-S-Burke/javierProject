@@ -1,7 +1,9 @@
 <template>
   <div class="bglight splash_image">
+    <div>
+      <img class="headerPhoto" src="@/assets/javier_profile.jpg" />
+    </div>
     <div class="m-3 bg-light text-dark carousel_border">
-      <h4>CV</h4>
       <ul class="p-3">
         <p>
           Lorem ipsum dolor sit amet, aliquando inciderint per ea, vim ubique dissentiet ad. Vix eu commune invenire, per illud suavitate hendrerit cu, dolorum docendi eam cu. Aeque veritus ad has, sale feugait disputationi eam et, vis equidem commune cu. Facete graecis nam eu, id integre pericula iracundia sea. Nam ex quis aliquip saperet. Est enim audiam ut. Te ius alii deseruisse comprehensam.
