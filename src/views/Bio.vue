@@ -1,19 +1,30 @@
 <template>
   <div class="bglight splash_image">
-      <div>
-          <img class="headerPhoto" src="@/assets/javier_profile.jpg"/>
-      </div>
+    <div>
+      <img class="headerPhoto" src="@/assets/javier_profile.jpg" />
+    </div>
     <div class="m-3 bg-light text-dark carousel_border">
-      <h4>BIO</h4>
-      <ul class="p-3">
-        <p>
-          Lorem ipsum dolor sit amet, aliquando inciderint per ea, vim ubique dissentiet ad. Vix eu commune invenire, per illud suavitate hendrerit cu, dolorum docendi eam cu. Aeque veritus ad has, sale feugait disputationi eam et, vis equidem commune cu. Facete graecis nam eu, id integre pericula iracundia sea. Nam ex quis aliquip saperet. Est enim audiam ut. Te ius alii deseruisse comprehensam.
-          Eius latine convenire vim te. Alii duis possit et mel. Lorem offendit mandamus at eum, in quem labore sea, vel eu etiam regione eruditi. Viris percipit et duo. Veniam ubique denique nam in, vel ei duis iudico. Nec id clita prompta sadipscing.
-        </p>
-        <p>
-          Lorem ipsum dolor sit amet, aliquando inciderint per ea, vim ubique dissentiet ad. Vix eu commune invenire, per illud suavitate hendrerit cu, dolorum docendi eam cu. Aeque veritus ad has, sale feugait disputationi eam et, vis equidem commune cu. Facete graecis nam eu, id integre pericula iracundia sea. Nam ex quis aliquip saperet. Est enim audiam ut. Te ius alii deseruisse comprehensam.
-          Eius latine convenire vim te. Alii duis possit et mel. Lorem offendit mandamus at eum, in quem labore sea, vel eu etiam regione eruditi. Viris percipit et duo. Veniam ubique denique nam in, vel ei duis iudico. Nec id clita prompta sadipscing.
-        </p>
+      <h4>Research and Teaching</h4>
+      <br />
+      <h5 class="text-left">Work in progress:</h5>
+      <ul class="p-3 text-left">
+        <li>The Politics of Subnational Democracy (DPhil thesis)</li>
+        <a href="url">Download PDF</a>
+        <li>Democracia y Desarrollo: Un Análisis Empírico de las Unidades Subnacionales del México Contemporáneo</li>
+        <a href="url">Download PDF</a>
+        <li>Why history matters: The complementarities of Regression and Comparative Historical Analysis in Subnational Research</li>
+        <a href="url">Download PDF</a>
+      </ul>
+      <h5 class="text-left">Data:</h5>
+      <ul class="text-left p-3">
+          <a href="url">Download .dte or .csv</a>
+      </ul>
+      <h5 class="text-left">Teaching:</h5>
+      <ul class="p-3 text-left">
+        <li>Comparative Government Tutor, Oxford (2017-2020)</li>
+        <li>Politics in Latin America, Oxford (2017-2020)/li>
+        <li>Statistics in R 101, Q-Step Oxford, (2019-2020)</li>
+        <li>Development and Social Change in Latin America, Brookes (2018)</li>
       </ul>
     </div>
   </div>
@@ -46,7 +57,7 @@ export default {
 }
 
 .headerPhoto {
-    max-width: 100%;
+  max-width: 100%;
 }
 
 .carousel_border {

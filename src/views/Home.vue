@@ -55,6 +55,7 @@
     </b-carousel>-->
 
     <div class="m-3 bg-light text-left text-dark carousel_border">
+      <h4 class="text-center">Javier Pérez Sandoval</h4>
       <ul class="p-3">
         <p>I am a third year DPhil in Politics candidate based at Wolfson College. 
           Before the DPhil, I completed a Master in Comparative Government also at Wolfson, 

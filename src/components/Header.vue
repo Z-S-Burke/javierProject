@@ -18,7 +18,7 @@
 
         <b-navbar-nav>
           <b-nav-item>
-            <router-link class="text-dark" to="/bio">Bio</router-link>
+            <router-link class="text-dark" to="/bio">Research and Teaching</router-link>
           </b-nav-item>
         </b-navbar-nav>
 
