@@ -8,6 +8,14 @@
         <p>Hi! If you want to get in touch, feel free to find me via:</p>
       </ul>
       <div class="contactDiv">
+        <img class="icon_style" src="@/assets/email_logo.png" />
+        <a class="iconText" href="javier.perezsandoval@politics.ox.ac.uk">Email</a>
+      </div>
+      <div class="contactDiv">
+        <img class="icon_style" src="@/assets/linkedIn_logo.png" />
+        <a class="iconText" href="www.linkedin.com/in/jps0809">LinkedIn</a>
+      </div>
+      <div class="contactDiv">
         <img class="icon_style" src="@/assets/insta_logo.png" />
 
         <a class="iconText" href="https://www.instagram.com/javipersa/?hl=es">Instagram</a>
@@ -16,15 +24,19 @@
         <img class="icon_style" src="@/assets/twitter_logo.png" />
         <a class="iconText" href="https://twitter.com/javierpsandoval">Twitter</a>
       </div>
-      <div class="contactDiv">
-        <img class="icon_style" src="@/assets/linkedIn_logo.png" />
-        <a class="iconText" href="www.linkedin.com/in/jps0809">LinkedIn</a>
-      </div>
-      <div class="contactDiv">
-        <img class="icon_style" src="@/assets/email_logo.png" />
-        <a class="iconText" href="javier.perezsandoval@politics.ox.ac.uk">Email</a>
-      </div>
     </div>
+    <h5>Latest Tweets:</h5>
+    <a
+      class="twitter-timeline"
+      href="https://twitter.com/javierpsandoval?ref_src=twsrc%5Etfw"
+    >Tweets by javierpsandoval</a>
+    <script
+      type="application/javascript"
+      async
+      data-tweet-limit="5"
+      src="https://platform.twitter.com/widgets.js"
+      charset="utf-8"
+    ></script>
   </div>
 </template>
 
