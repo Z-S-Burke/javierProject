@@ -1,21 +1,21 @@
 <template>
   <div id="app">
-    <div class="d-flex align-items-center bg-dark text-light footer_style border border-top">
+    <div class="d-flex align-items-center footer_style">
       <router-link
         to="/"
-        class="d-flex justify-content-center align-items-center footer_button bg-light text-dark"
+        class="d-flex mx-2 justify-content-center align-items-center footer_button text-dark"
       >Home</router-link>
       <router-link
         to="/bio"
-        class="d-flex justify-content-center align-items-center footer_button bg-light text-dark"
+        class="d-flex mx-2 justify-content-center align-items-center footer_button text-dark"
       >Bio</router-link>
       <router-link
         to="/CV"
-        class="d-flex justify-content-center align-items-center footer_button bg-light text-dark"
+        class="d-flex mx-2 justify-content-center align-items-center footer_button text-dark"
       >CV</router-link>
       <router-link
         to="/contact"
-        class="d-flex justify-content-center align-items-center footer_button bg-light text-dark"
+        class="d-flex mx-2 justify-content-center align-items-center footer_button text-dark"
       >Contact</router-link>
     </div>
   </div>
@@ -31,7 +31,7 @@
 .footer_button {
   height: 100%;
   width: 25%;
-  border-style: solid;
-  /* border-left-style: solid; */
+  background-color: white;
+  font: black; 
 }
 </style>
