@@ -1,8 +1,5 @@
 <template>
   <div class="bglight splash_image">
-    <div>
-      <img class="headerPhoto" src="@/assets/javier_profile.jpg" />
-    </div>
     <div class="m-3 bg-light text-dark carousel_border">
       <h4>Research and Teaching</h4>
       <br />

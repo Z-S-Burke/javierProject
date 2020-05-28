@@ -1,8 +1,5 @@
 <template>
   <div class="bglight splash_image">
-    <div>
-      <img class="headerPhoto" src="@/assets/javier_profile.jpg" />
-    </div>
     <!--       
       <b-carousel
         class="bg-light carousel_border"

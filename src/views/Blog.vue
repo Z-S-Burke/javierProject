@@ -1,6 +1,6 @@
 <template>
   <div class="splash_image">
-    <h2 class="m-3">BLOG</h2>
+    <h2 class="m-3">Blog</h2>
 
     <div class="m-3 bg-light text-dark carousel_border">
       <ul class="p-3">
@@ -21,10 +21,12 @@
           </h4>
           <p>Come Sunday at 6 p.m. (GMT-5) Mexican citizens will have had elected not only a new president, but also over 3,400 new public officials. Being the largest electoral process in Mexican history, this third federal voting round in the post-transition era determines not only Mexico's future, but -along with several other elections in the region- it also helps configure the ideological composition of Latin America.</p>
         </blockquote>
-        <p>
-          Lorem ipsum dolor sit amet, aliquando inciderint per ea, vim ubique dissentiet ad. Vix eu commune invenire, per illud suavitate hendrerit cu, dolorum docendi eam cu. Aeque veritus ad has, sale feugait disputationi eam et, vis equidem commune cu. Facete graecis nam eu, id integre pericula iracundia sea. Nam ex quis aliquip saperet. Est enim audiam ut. Te ius alii deseruisse comprehensam.
-          Eius latine convenire vim te. Alii duis possit et mel. Lorem offendit mandamus at eum, in quem labore sea, vel eu etiam regione eruditi. Viris percipit et duo. Veniam ubique denique nam in, vel ei duis iudico. Nec id clita prompta sadipscing.
-        </p>
+        <blockquote class="embedly-card">
+          <h4>
+            <a href="https://presidential-power.net/?author=53">Javier Perez Sandoval</a>
+          </h4>
+          <p>Children´s literary classics become so not only because of their appeal to young readers, but also because their themes, characters, dialogues and narratives can be constantly (re)discovered by very distinct audiences across time and space. We think of Dr. Seuss' Lorax or Antoine de Saint-Exupéry's Little Prince as classics because they shed light on a rather complex set of issues.</p>
+        </blockquote>
       </ul>
     </div>
   </div>
