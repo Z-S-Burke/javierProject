@@ -1,7 +1,7 @@
 <template>
   <div class="bglight splash_image">
     <div>
-      <img class="headerPhoto" src="@/assets/javier_profile.jpg" />
+      <img class="headerPhoto" src="@/assets/cv.png" />
     </div>
     <div class="m-3 bg-light text-dark carousel_border">
       <ul class="p-3">
